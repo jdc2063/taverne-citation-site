@@ -1,1 +1,0 @@
-{"version":"pest_2.34.7","defects":{"P\\Domain\\Quote\\tests\\CreateQuoteTest::__pest_evaluable_it_should_create_a_quote":8},"times":{"P\\Domain\\Quote\\tests\\PestTest::__pest_evaluable_it_should_work":0.008,"P\\Domain\\Quote\\tests\\CreateQuoteTest::__pest_evaluable_it_should_create_a_quote":0.017}}
