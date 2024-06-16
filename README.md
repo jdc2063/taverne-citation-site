@@ -1,7 +1,3 @@
-<!--suppress HtmlDeprecatedAttribute -->
-<p align="center">
-    <img src="public/assets/hexagon.jpg" alt="hexagon">
-</p>
 
 <h1 align="center">
   🐘🎯 Hexagonal Architecture, DDD & TDD in Symfony
@@ -32,7 +28,7 @@ This project is made with [Symfony][1] 5.4.
 
 ### 🐳 Needed tools
 
-1. PHP 7.4 or higher;
+1. PHP 8.3 or higher;
 2. Composer
 3. PDO-MySQL PHP extension enabled;
 4. and the [usual Symfony application requirements][2].
@@ -104,9 +100,7 @@ src
 
 ## 🤔 Contributing
 
-There are some things missing (add some features: exception, ui, improve documentation...), feel free to add this if you
-want! If you want
-some guidelines feel free to contact us :)
+https://github.com/dahromy/symfony-hexagonal-architecture
 
 [1]: https://symfony.com/doc/5.4/index.html
 
