@@ -12,9 +12,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 
-/**
- * @Route("/posts/create", name="app.post.create")
- */
+#[Route('/posts/create', name: 'app.post.create')]
 class CreatePostController extends AbstractController
 {
     /**
