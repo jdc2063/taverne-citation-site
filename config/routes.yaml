@@ -1,5 +1,7 @@
 api_controllers:
-    resource: '../src/UI/Http/Rest/Controller/'
+    resource:
+        path: '../src/UI/Http/Rest/Controller/'
+        namespace: App\UI\Http\Rest\Controller
     type: attribute
     prefix: /api
 
